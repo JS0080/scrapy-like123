@@ -42,12 +42,5 @@ $ jupyter notebook
 - Notebooks
 The project has two notebooks now: Like123Spider, Run Scrapy Program
 
-Like123Spider:
-	You can not run this notebook directly in jupyter, because python scrapy program consists of several files and can work with all these files.
-	So the spider cannot be executed alone.
-
-Run Scrapy Program:
-	I provide one notebook that calls Like123Spider programmatically.
-	You can run this notebook and look at the result of scrapy.
 
 
